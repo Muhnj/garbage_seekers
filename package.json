@@ -15,7 +15,8 @@
     "garbage_seekers": "file:",
     "next": "15.3.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "sweetalert2": "^11.19.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
