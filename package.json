@@ -11,12 +11,14 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
     "@heroicons/react": "^2.2.0",
+    "firebase": "^11.8.1",
     "framer-motion": "^12.9.2",
     "garbage_seekers": "file:",
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "sweetalert2": "^11.19.1"
+    "sweetalert2": "^11.19.1",
+    "zustand": "^5.0.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
